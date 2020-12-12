@@ -1,5 +1,5 @@
 <?php
-$result = file_get_contents("https://api.particle.io/v1/devices/2a0021000347343337373738/gateClosed?access_token=33757db43daadfb92aba024f139a1b9dfe0f3ad3");
+$result = file_get_contents("https://api.particle.io/v1/devices/YOUR_DEVICE_ID/gateClosed?access_token=YOUR_BIG_LONG_ACCESS_TOKEN");
 $json = json_decode($result);
 
 $gateIsClosed = $json->result;
