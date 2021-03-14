@@ -30,7 +30,7 @@ Using a configuration profile, you can make a "app" with the webpage! Here's how
 
 ### Installing the Profile
 1. Get the profile to your device. You can do it via email, a webpage, or by deploying it through [Apple Configurator](https://apps.apple.com/us/app/apple-configurator-2/id1037126344?mt=12).
-2. If it asks if you want to allow downlaoding a configuration profile, click Allow.
+2. If it asks if you want to allow downloading a configuration profile, click Allow.
 2. Open Settings. 
 3. Under your name, you should see a "Profile Downloaded" option. Tap it.
 4. Tap "Install" in the corner.
